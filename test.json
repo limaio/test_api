@@ -3,70 +3,70 @@
     "name": "CARABAYLLO [PM 10 71.02 µg/m3]",
     "lat": -11.90219,
     "lng": -77.03364,
-    "id": "02",
+    "color": "02",
     "value": "72"
   },
   {
     "name": "SAN BORJA [PM 10 44.6 µg/m3]",
     "lat": -12.10863,
     "lng": -77.00777,
-    "id": "01",
+    "color": "01",
     "value": "45"
   },
   {
     "name": "CAMPO DE MARTE [PM 2.5 15.99 µg/m3]",
     "lat": -12.07053,
     "lng": -77.04317,
-    "id": "01",
+    "color": "01",
     "value": "32"
   },
   {
     "name": "PUENTE PIEDRA [PM 10 76.75 µg/m3]",
     "lat": -11.86325,
     "lng": -77.07413,
-    "id": "02",
+    "color": "02",
     "value": "77"
   },
   {
     "name": "SANTA ANITA [PM 10 74.62 µg/m3]",
     "lat": -12.043,
     "lng": -76.97142,
-    "id": "02",
+    "color": "02",
     "value": "75"
   },
   {
     "name": "SAN JUAN DE LURIGANCHO [PM 10 87.44 µg/m3]",
     "lat": -12.01689,
     "lng": -76.99883,
-    "id": "02",
+    "color": "02",
     "value": "88"
   },
   {
     "name": "ATE [PM 10 125.84 µg/m3]",
     "lat": -12.02611,
     "lng": -76.91861,
-    "id": "03",
+    "color": "03",
     "value": "127"
   },
   {
     "name": "VILLA MARIA DEL TRIUNFO [PM 10 96.03 µg/m3]",
     "lat": -12.16639,
     "lng": -76.92,
-    "id": "02",
+    "color": "02",
     "value": "96"
   },
   {
     "name": "SAN MARTIN DE PORRES [PM 10 45.95 µg/m3]",
     "lat": -12.00889,
     "lng": -77.08447,
-    "id": "01",
+    "color": "01",
     "value": "46"
   },
   {
     "name": "HUACHIPA",
     "lat": -12.01689,
     "lng": -76.94883,
-    "id": "05",
+    "color": "05",
     "value": "ND"
   }
 ]
